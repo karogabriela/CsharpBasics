@@ -48,6 +48,11 @@
     <Compile Include="Delegates\HandlingEvents.cs" />
     <Compile Include="Delegates\MyFirstDelegate.cs" />
     <Compile Include="Delegates\PredicateDelegate.cs" />
+    <Compile Include="Interfaces\Order.cs" />
+    <Compile Include="Interfaces\OrderProcessor.cs" />
+    <Compile Include="Interfaces\Shipment.cs" />
+    <Compile Include="Interfaces\ShippingCalculator.cs" />
+    <Compile Include="Interfaces\StoreProgram.cs" />
     <Compile Include="Shared\Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
